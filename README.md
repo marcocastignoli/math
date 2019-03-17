@@ -29,4 +29,5 @@ npm start
 # Next steps
 * authorization
 * testing
+* migrations
 * client (frontend and backend)
